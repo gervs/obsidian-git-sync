@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "008d8f2065077a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README-Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37e420223518b887",
+  "active": "008d8f2065077a17",
   "lastOpenFiles": [
-    "Untitled",
-    "French",
-    "README-Test.md"
+    "MS-700/Untitled.md",
+    "MS-700/Untitled",
+    "README-Test.md",
+    "MS-700",
+    "French"
   ]
 }
