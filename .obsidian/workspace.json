@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README-Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README-Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README-Test.md"
+              }
             }
           }
         ]
@@ -142,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37e420223518b887",
+  "active": "fd7d73307004009c",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "README-Test.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "2023-03-11.md",
     "MS-700/Untitled.md",
     "MS-700/Untitled",
