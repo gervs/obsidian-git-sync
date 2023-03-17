@@ -53,4 +53,6 @@ Tips:
 		- Don't be worried if you see technical terms in the Listening questions. These will usually be explained to you. 
 - (8) Contrasting ideas
 	- Signposting words
-	- 
+		- A shift in topic often indicates that you should move on to the next question. Use signposting words (as welll as headings) in the notes to help guide you through the topics and the questions. 
+		- You may hear synonyms of the words written on the question paper. 
+		- Comparing and contrasting ideas.
