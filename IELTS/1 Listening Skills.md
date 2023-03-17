@@ -28,3 +28,11 @@ Tips:
 	- Selection from a list
 		- The questions in the Listening paper are in the same order as the information you hear. However, in questions where you have to choose an option from a list, the list of possible options will be in random order.
 		- Pay attention to any negatives in the options, as well as any adjectices. The question will tell you how many answers you have to choose, as well as what you need to listen for (e.g. problems, solutions, advantagers, etc.)
+- (4) Places and directions
+	- Describing a place
+		- For labeling a map or plan in IELTS, you may need to follow directions, or you may hear a description of a location. 
+		- Study the map or plan carefully before you listen. Having a clear image in your mind will help you understand what you hear. 
+		- You may need to follow directions to locate a place on the map or plan. Marking the way directly on the map can be helpful. 
+		- Distractors for this type of task are extra buildings marked on the map, or they might be extra options in alist of possible answers.
+	- Labelling a map
+		- Before you listen
