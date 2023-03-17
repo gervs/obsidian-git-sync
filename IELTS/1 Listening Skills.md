@@ -46,3 +46,5 @@ Tips:
 	- Persuading and suggesting
 		- For matching task like this, the topics in the questions will be discussed in the same order as they are listed. But you will hear the different options in the box in a random order. As you listen, you need to keep looking at the list of options. 
 - (7) Following a lecture or talk
+	- Identifying main ideas
+		- At the start of each talk, you will be told who the speaker is and why they are talking. You won't be tested on this, but you can use this information to get a clear idea of the situation. THis can help you to concentrate and follow the information in the talk. 
