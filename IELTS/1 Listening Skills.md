@@ -35,4 +35,12 @@ Tips:
 		- You may need to follow directions to locate a place on the map or plan. Marking the way directly on the map can be helpful. 
 		- Distractors for this type of task are extra buildings marked on the map, or they might be extra options in alist of possible answers.
 	- Labelling a map
-		- Before you listen
+		- Before you listen, read the options several times so that you become familiar with the information you need to listen for. 
+		- Don't cross out any options unless you are sure they are wrong. If you can't decide between two answers, write both down and decide later. 
+- (5) Listening skills
+	- Understanding mechanical parts 
+	- Descring an action or process (prepositions or adverbs)
+	- Describing a process
+- (6) Attitude and opinion
+	- Identifying attitudes and opinions
+	- Persuading and suggesting
