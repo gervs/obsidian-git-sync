@@ -44,3 +44,5 @@ Tips:
 - (6) Attitude and opinion
 	- Identifying attitudes and opinions
 	- Persuading and suggesting
+		- For matching task like this, the topics in the questions will be discussed in the same order as they are listed. But you will hear the different options in the box in a random order. As you listen, you need to keep looking at the list of options. 
+- (7) Following a lecture or talk
