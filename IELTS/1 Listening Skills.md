@@ -48,3 +48,9 @@ Tips:
 - (7) Following a lecture or talk
 	- Identifying main ideas
 		- At the start of each talk, you will be told who the speaker is and why they are talking. You won't be tested on this, but you can use this information to get a clear idea of the situation. THis can help you to concentrate and follow the information in the talk. 
+	- Understanding how ideas are connected
+	- Understanding an explanation
+		- Don't be worried if you see technical terms in the Listening questions. These will usually be explained to you. 
+- (8) Contrasting ideas
+	- Signposting words
+	- 
