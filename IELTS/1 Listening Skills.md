@@ -55,4 +55,5 @@ Tips:
 	- Signposting words
 		- A shift in topic often indicates that you should move on to the next question. Use signposting words (as welll as headings) in the notes to help guide you through the topics and the questions. 
 		- You may hear synonyms of the words written on the question paper. 
-		- Comparing and contrasting ideas.
+		- Comparing and contrasting ideas. — The information in a table is always read from left to right. The different examples will be described in order. Notice that there is often a title or a heading at the top of the table to give you more information. 
+	- Using notes to follow a talk
