@@ -3,4 +3,11 @@ General Information
 - 3 separate sections:
 	- Academic contains 3 long texts of an academic nature.
 	- General contains mixture of long and short tets of more general nature, as well as related to work situations. 
-- 
+- Total of 40 questions.
+	- Questions will usually paraphrase the words that are in the text. 
+		- Identify the writer's overall purpose. 
+		- Follow key arguments in a text. 
+		- Identify opinions and attitudes.
+		- Locate specific information. 
+		- Distinguish main ideas from supporting details. 
+		- Extract information from a text to complete a diagram, summary, table or set of notes. 
