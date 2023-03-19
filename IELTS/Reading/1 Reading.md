@@ -25,4 +25,6 @@ General Information
 		- summary completion
 
 ### 1 Reading strategies 
-##### 1 Using the features of a Reading passage  
+##### 1 Using the features of a Reading passage 
+##### 2 Skimming a passage and speed reading
+
