@@ -11,3 +11,15 @@ General Information
 		- Locate specific information. 
 		- Distinguish main ideas from supporting details. 
 		- Extract information from a text to complete a diagram, summary, table or set of notes. 
+	- 12-13 questions in each sections and you will be asked 1-3 different types of questions in any sections.
+		- sentence completion
+		- summary, note, table, flow-chart completion
+		- short-answer questions
+		- diagram label completion
+	- Other task may have:
+		- multiple choice 
+		- matching information
+		- matching headings
+		- matching features
+		- matching sentence endings 
+		- summary completion
