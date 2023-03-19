@@ -27,4 +27,6 @@ General Information
 ### 1 Reading strategies 
 ##### 1 Using the features of a Reading passage 
 ##### 2 Skimming a passage and speed reading
+##### 3 Global understanding
+
 
