@@ -23,3 +23,6 @@ General Information
 		- matching features
 		- matching sentence endings 
 		- summary completion
+
+### 1 Reading strategies 
+##### 1 Using the features of a Reading passage  
