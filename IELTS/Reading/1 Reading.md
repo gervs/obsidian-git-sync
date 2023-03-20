@@ -31,6 +31,13 @@ Tip:
 ##### 2 Skimming a passage and speed reading
 ##### 3 Global understanding
 - distinguishing main ideas from supporting ideas
+	- TIP #1
+	- Read the headings so that you are familiar with them. 
+	- Skim read the whole passage to get the overall meaning. 
+	- Read the first paragraph and decide which headings might fit. 
+	- Re-read the paragraph and choose the heading that best summarises it. 
+	- Repeat steps 3 and 4 for the remaining paragraphs. \
+	- TIP #2: Don't try to match words in the head
 - understanding the main points
 - identifying information in a Reading passage
 - matching headings
