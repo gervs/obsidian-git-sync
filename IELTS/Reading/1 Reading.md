@@ -26,7 +26,16 @@ General Information
 
 ### 1 Reading strategies 
 ##### 1 Using the features of a Reading passage 
+Tip: 
+- Timing is an important part of the reading test. Try to finish each section in less than 20 minutes. 
 ##### 2 Skimming a passage and speed reading
 ##### 3 Global understanding
+- distinguishing main ideas from supporting ideas
+- understanding the main points
+- identifying information in a Reading passage
+- matching headings
+- multiple choice
+- True / False / Not Given 
+  
 
 
